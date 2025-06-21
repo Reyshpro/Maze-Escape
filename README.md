@@ -37,5 +37,18 @@ Maze Escape is a 3D puzzle game where the player must navigate through a maze be
 - **Language:** C#
 - **Platform:** Windows build
 
+## Screenshots
+
+### Main Menu  
+![Main Menu](images/Main-menu.png)
+
+### Game Scene  
+![Game Scene](images/Game Scene.png)
+
+### You Win Screen  
+![You Win](images/You win .png)
+
+### Game Over Screen  
+![You Lost](images/Game over .png)
 
 
