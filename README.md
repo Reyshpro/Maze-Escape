@@ -43,12 +43,12 @@ Maze Escape is a 3D puzzle game where the player must navigate through a maze be
 ![Main Menu](images/Main-menu.png)
 
 ### Game Scene  
-![Game Scene](images/Game Scene.png)
+![Game Scene](images/Game%20Scene.png)
 
 ### You Win Screen  
-![You Win](images/You win .png)
+![You Win](images/You%20win.png)
 
 ### Game Over Screen  
-![You Lost](images/Game over .png)
+![You Lost](images/Game%20over.png)
 
 
